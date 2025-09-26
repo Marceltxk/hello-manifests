@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: seu-usuario-docker/hello-app:latest
+        image: marcelchiarelo/hello-app:latest
         ports:
         - containerPort: 8000
         resources:
