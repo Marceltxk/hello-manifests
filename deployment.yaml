@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: marcelchiarelo/hello-app:v20250927-033516-1a47b47
+        image: marcelchiarelo/hello-app:v20250927-034012-2d5c2ad
         ports:
         - containerPort: 8000
         resources:
